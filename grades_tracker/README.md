@@ -1,1 +1,1 @@
-
+Functions include: inputting grades, adding/removing items (type 'add grade' or 'remove grade'), calculating average (type 'average'), calculating amount of grades (type 'length'), enter "done" to finish inputting grades and "stop" to stop running the code.
