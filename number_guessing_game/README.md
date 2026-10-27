@@ -1,1 +1,1 @@
-A number guessing game in which the computer chooses a random number 1-100 and the player tries to guess it.
+A number guessing game in which the computer chooses a random number 1-100 and the player tries to guess it. Number of tries taken is counted and returned at the end. This game uses variables, random, loops, and functions.
